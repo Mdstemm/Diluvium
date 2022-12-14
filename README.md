@@ -5,6 +5,6 @@
 <br>
 
 #World map
-![image](https://github.com/Mdstemm/Diluvium/image_storage/map-landmass-biomes-citys-paths.jpeg)
+![image](https://github.com/Mdstemm/Diluvium/blob/main/Image%20storage/map-landmass-biomes-citys-paths.jpeg)
 
 The world of Diluvium is a chaotic and intertwined world. There are eight major countries and several prominent city states.
