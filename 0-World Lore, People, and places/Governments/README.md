@@ -7,7 +7,7 @@
 <h2>Countries</h2>
 
 1. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Uprax.md"> Uprax</a></h3>
-   <p>Uprax is the oldest and largest country. It's capital <a href=""> Name</a> is the also the oldest city and has stood steadfast for thousands of years. The Government is run by a theocratic monarch elected by a council made of representatives of the major religions.</p>  
+   <p>Uprax is the oldest and largest country. It's capital <a href=""> Name</a> is the also the oldest city and has stood steadfast for thousands of years. The Government is run by a theocratic monarch elected by a council made of representatives of the major religions.</p> 
 2. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Birnam-Kingdom.md"> Birnam Kingdom</a></h3>
    <p>Birnam Kingdom is a smaller country but is the largest exporter of lumber. It's dense forests are home to many unique creatures and forest druids. Birnam has a tightly controlled border and is often wary of outsiders.</p>
 3. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Thrqin-Empire.md"> Thr'qin Empire</a></h3>
