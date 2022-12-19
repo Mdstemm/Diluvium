@@ -15,7 +15,7 @@
 4. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Kingdom-of-Kezig.md"> Kingdom of Kezig</a></h3>
    filler text Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet metus dolor. Suspendisse eu.
 5. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Oxlightian-Kingdom.md"> Oxlightian Kingdom</a></h3>
-   <p>The Oxlightian monarchy is very new having been put in place by the nobles in an agreement to stop the revolution occurring throughout the kingdom. There is an uneasy peace but relations are improving and the people have largely accepted the new ruling family.</p>
+   <p>The Oxlightian monarchy is very new having been put in place by the nobles in an agreement to stop the revolution occurring throughout the kingdom. Despite several cities becoming independent, there is an uneasy peace. Relations are improving and the people have largely accepted the new ruling family.</p>
 6. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Zarenth-Empire.md"> Zarenth Empire</a></h3>
    filler text Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet metus dolor. Suspendisse eu.
 7. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Brayles-Republic.md"> Brayles Republic</a></h3>
