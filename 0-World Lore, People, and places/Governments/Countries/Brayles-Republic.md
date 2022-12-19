@@ -10,12 +10,12 @@
 <p>The capital's location changes with the new ruling party. There are five major family groups/organizations that are the top competitors for the crown. So of course they named their cities after themselves.</p>
 
 1. <h3>Windrun</h3>
-<p>The current capital and home to the Windrun family.</p>
+   <p>The current capital and home to the Windrun family.</p>
 2. <h3>Argenfort</h3>
-<p></p>
+   <p></p>
 3. <h3>Sortos</h3>
-<p></p>
+   <p></p>
 4. <h3>Galilona</h3>
-<p></p>
+   <p></p>
 5. <h3>Beaulimar</h3>
-<p></p>
+   <p></p>
