@@ -74,7 +74,7 @@ Keep in mind that an X isn't an end all, you may just have to get creative to fi
 |         | **<u>Terrible effects</u>**:(If healed take three levels of exhaustion)                                                                 |                                 |
 | 101-105 | Crushed trachea; Cannot speak; difficult to stabilize.                                                                                  | \*14, 18 to stabilize           |
 | 106-110 | Ruptured liver; you are considered poisoned; Disadvantage on Constitution saves.                                                        | 20 or \*15, 15 to stabilize     |
-| 111-115 | Internal blead; take 1d4 damage for every action + bonus action you take                                                                | 20, 18 to stabilize             |
+| 111-115 | Internal blead; take 1d4 damage for every action and bonus action you take                                                                | 20, 18 to stabilize             |
 | 116-120 | Horrific Injury; roll a d6 the corresponding ability is reduced by 1 point until healed                                                 | 16,16 to stabilize              |
 | 121-125 | Maimed Arm; one arm is permanently lost. You can only use one handed items. Gain disadvantage on relevant Strength and Dexterity checks | \*28, 19 to stabilize           |
 | 126-130 | Maimed Leg; one leg is permanently lost. Your speed becomes 5ft crawling. You auto fail Strength and Dexterity checks.                  | \*30, 19 to stabilize           |
@@ -100,6 +100,7 @@ Keep in mind that an X isn't an end all, you may just have to get creative to fi
 | Normal | 3 Miles           | 24 Miles         | -                                | +0           |
 | Slow   | 2 Miles           | 18 Miles         | Ability to use stealth           | +10          |
 
+
 ### Travel pace(sea/air)
 
 | Ship         | Ship size               | Distance per hour | Distance per day | %Roll effect     |
@@ -110,3 +111,5 @@ Keep in mind that an X isn't an end all, you may just have to get creative to fi
 | Longship     | 40 crew, 100 passengers | 5 Miles           | 120 Miles        | sea travel table |
 | Sailing Ship | 30 crew, 20 passengers  | 5 Miles           | 120 Miles        | sea travel table |
 | Warship      | 40 crew, 60 passengers  | 4 Miles           | 96 Miles         | sea travel table |
+=======
+<h3>Travel pace(sea)</h3>
