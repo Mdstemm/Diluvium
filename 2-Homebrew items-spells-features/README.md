@@ -26,9 +26,7 @@ Base stats are determined by draft. Each player rolls for stats, all results are
 
 ### Death
 
-When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
-
-You also die if you roll 3 failed death saves.
+Standard death rules apply with the folowing rules.
 
 ### Lasting injuries
 
