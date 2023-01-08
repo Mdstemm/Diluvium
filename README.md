@@ -2,7 +2,6 @@
 
 A Fantasy world I'm building for a game and creative outlet
 
-<p</p>
 
 <p>The main branch has all the information that is known by the players, a GM-* branch is for adding learned information, and the GM-all contains all written lore.</p><br>
 
