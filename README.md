@@ -1,8 +1,10 @@
 # Diluvium
 
-<p>A DnD world I'm building for a game and creative outlet</p>
+A Fantasy world I'm building for a game and creative outlet
 
-<p>The main branch has all the information that is known by the players, a DM-* branch is for adding learned information, and the DM-all contains all written lore.</p><br>
+<p</p>
+
+<p>The main branch has all the information that is known by the players, a GM-* branch is for adding learned information, and the GM-all contains all written lore.</p><br>
 
 # World map
 
