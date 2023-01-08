@@ -1,7 +1,15 @@
 <h1>Homebrew rules</h1>
-<p>click the menu button next to README.md above for table of contents.</p>
+<p>Click the menu button next to README.md above for table of contents.</p>
 
 ---
+
+## General homebrew rules
+
+Using a potion takes a bonus action.
+
+Flanking grants advantage.
+
+Base stats are determined by draft. Each player rolls for stats, all results are compiled take turns distributing values.
 
 <h2>Proficiency Dice</h2>
 <p>Insted of adding your proficiency modifyer you roll an aditioal dice based on the following table:</p>
@@ -59,7 +67,7 @@ Keep in mind that an X isn't an end all, you may just have to get creative to fi
 | 31-35   | Staggered; loose Dexterity bonus to your AC.                                                                                            | SR, 11 to stabilize             |
 | 36-40   | Amnesia; you don't remember the events of the battle.                                                                                   | X, 11 to stabilize              |
 | 41-45   | Bloody eyes; you have disadvantage on Wisdom(perception) checks and ranged attack rolls.                                                | SR, 11 to stabilize             |
-| 46-50   | Lasting hit; Your maximum hit points are reduced by carry over damage(up to 1 hit dice)                                                 | LR, 11 to stabilize             |
+| 46-50   | Lasting hit; Your maximum hit points are reduced by carry over damage(up to 1 hit dice of max hp left)                                  | LR, 11 to stabilize             |
 |         | **<u>Worse effects</u>**:(If healed take two levels of exhaustion)                                                                      |                                 |
 | 51-55   | Trauma; you make a DC14 Wisdom save and are frightened by the attacker on a miss.                                                       | X, 12 to stabilize              |
 | 56-60   | Nightmares; Make a DC13 Intelligence check before every long rest. On a miss gain one level of exhaustion.                              | X, 12 to stabilize              |
@@ -84,21 +92,21 @@ Keep in mind that an X isn't an end all, you may just have to get creative to fi
 | 146-150 | Death approaches; add two failed death saves                                                                                            | X, 25 to stabilize              |
 | 151+    | Death; complete final death.                                                                                                            | X                               |
 
-### Revival
-
- where is the soul, are they willing, who's keeping them there, ritual?
+---
 
 ## Travel
 
 ### Travel encounters
 
+The encounter tables are a secret, but for every day of travel or valid travel scene a player will roll a d20. An encounter happens on a 1 or 20 each time there is no encounter the threshold grows by one. 
+
 ### Travel pace(land)
 
-| Pace   | Distance per hour | Distance per day | Effect                           | %Roll effect |
-| ------ | ----------------- | ---------------- | -------------------------------- | ------------ |
-| Fast   | 4 Miles           | 30 Miles         | -5 penalty to passive Perception | -10          |
-| Normal | 3 Miles           | 24 Miles         | -                                | +0           |
-| Slow   | 2 Miles           | 18 Miles         | Ability to use stealth           | +10          |
+| Pace   | Distance per hour | Distance per day | Effect                           | Encounter effect |
+| ------ | ----------------- | ---------------- | -------------------------------- | ---------------- |
+| Fast   | 4 Miles           | 30 Miles         | -5 penalty to passive Perception | -1               |
+| Normal | 3 Miles           | 24 Miles         | -                                | +0               |
+| Slow   | 2 Miles           | 18 Miles         | Ability to use stealth           | +1               |
 
 
 ### Travel pace(sea/air)

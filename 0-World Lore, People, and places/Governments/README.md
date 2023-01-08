@@ -34,12 +34,12 @@
 4. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Pineharbor.md"> Pineharbor</a></h3>
    filler text Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet metus dolor. Suspendisse eu.
 5. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Valenstat.md"> Valenstat</a></h3>
-   <p>Valenstat is a recently independent city, It's inhabitants rebelled against the former king of <a href="">Oxlightian</a> and remained independent when the monarchy was replaced.</p>
+   <p>Valenstat is a recently independent city, It's inhabitants rebelled against the former king of <a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/Countries/Oxlightian-Kingdom.md">Oxlightian</a> and remained independent when the monarchy was replaced.</p>
 6. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Midburn.md"> Midburn</a></h3>
    filler text Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet metus dolor. Suspendisse eu.
 7. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Gloomstrand.md"> Gloomstrand</a></h3>
    filler text Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet metus dolor. Suspendisse eu.
 8. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Clayhaven.md"> Clayhaven</a></h3>
-   Clayhaven is a moderately sized city located between the kingdom of Kezig and the Zarenth Empire.
+   Clayhaven is a moderately sized city located between the Kingdom of Kezig and the Zarenth Empire.
 9. <h3><a href="https://github.com/Mdstemm/Diluvium/blob/main/0-World%20Lore%2C%20People%2C%20and%20places/Governments/CityStates/Wizard-City.md"> Wizard City</a></h3>
    <p>Wizard City is home to the council of wizards as well as several wizarding colleges. The city is infamous for wild magic, black market trading, and big silly hats.</p>
